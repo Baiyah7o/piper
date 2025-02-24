@@ -32,7 +32,7 @@
      inkscape:cx="311.25"
      inkscape:cy="253.5"
      inkscape:document-units="px"
-     inkscape:current-layer="LEDs"
+     inkscape:current-layer="Device"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -192,7 +192,7 @@
          sodipodi:nodetypes="cccc" />
       <path
          id="led0"
-         style="color:#000000;display:inline;overflow:visible;vector-effect:none;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"
+         style="color:#000000;display:inline;overflow:visible;vector-effect:none;fill:#d3d3ce;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"
          d="m 699.83007,597.09532 c 0,0 -16.46015,85.54578 -25.31343,86.37773 -5.47204,7.62655 -75.2405,-7.05854 -83.35928,-8.86308 -4.4067,-3.00486 -10.28788,-1.54967 -13.42666,-11.03417 l -5.4313,1.54016 c 0,0 -4.44322,-4.39177 -3.4609,-2.01303 0.98232,2.37874 4.42788,9.92811 4.88135,10.60457 2.44642,3.64943 5.46761,4.77645 9.87336,6.69341 43.63132,14.22708 86.19514,10.28952 88.44796,19.97257 l 12.28811,52.81677 c 0.43306,-9.81325 9.12954,-1.78785 6.30456,-10.51417 -1.75087,-5.40843 -9.01324,-37.84197 -7.94408,-46.63044 2.13832,-17.57695 7.86233,-29.84721 13.51752,-49.89164 4.1949,-14.86858 8.0422,-47.11406 8.0422,-47.11406 z"
          inkscape:label="led0"
          sodipodi:nodetypes="cccccsscscssscc"
